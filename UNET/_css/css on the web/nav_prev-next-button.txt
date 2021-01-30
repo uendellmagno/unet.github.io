@@ -1,0 +1,11 @@
+<div style="
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+">
+    <!-- Previous link sticks to the left -->
+    <a>..</a>
+
+    <!-- Next link sticks to the right -->
+    <a>..</a>
+</div>
